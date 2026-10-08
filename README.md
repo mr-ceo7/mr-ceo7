@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Hero Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,28&height=220&section=header&text=Qassim%20Musa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Systems%20Engineer%20%7C%20Founder%20%40%20Galvaniy%20Techs&descFontSize=19&descAlignY=62&descAlign=50" width="100%" alt="Qassim Musa Header Banner" />
+<!-- Hero Banner Header (Self-Hosted Vector SVG) -->
+<a href="https://github.com/mr-ceo7">
+  <img src="./banner.svg" width="100%" alt="Qassim Musa Header Banner" />
+</a>
 
 <!-- Typing Animated Subtitle -->
 <a href="https://github.com/mr-ceo7">
