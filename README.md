@@ -12,8 +12,11 @@
 
 <!-- Social & Status Badges -->
 <p align="center">
+  <a href="https://mylandingpage-three-roan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Monograph-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
   <a href="https://galvaniytechs.odoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Galvaniy%20Techs-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Company-Galvaniy%20Techs-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Company" />
   </a>
   <a href="mailto:kassimmusa322@gmail.com">
     <img src="https://img.shields.io/badge/Email-kassimmusa322%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -32,8 +35,9 @@
 
 I am a **Full-Stack & Systems Engineer** and the **Founder of Galvaniy Techs**, focused on engineering resilient, high-performance software systems across the entire technology spectrum.
 
+- 🌐 **Interactive Portfolio**: Explore my live systems monograph and case studies at [**mylandingpage-three-roan.vercel.app**](https://mylandingpage-three-roan.vercel.app/).
 - 🚀 **Founder & Lead Architect** at [Galvaniy Techs](https://galvaniytechs.odoo.com) — building scalable SaaS products, developer tooling, and modern digital platforms.
-- ⚡ **Core Competencies**: High-throughput AI gateways, mobile fintech automation, low-latency desktop utilities, and embedded IoT firmware.
+- ⚡ **Physical-Digital Boundary**: From bare-metal C/C++ firmware and SPI bus protocols on RP2040 and ESP32 hardware to institutional web platforms and transaction ledgers.
 - 🤖 **AI & Developer Tooling**: Creator of `agy-pool` (CLI account & quota orchestrator) and `AI_gateway` (multi-engine LLM routing gateway).
 - 📍 Based in **Nairobi, Kenya** 🇰🇪 | Open to high-impact collaborations and enterprise engineering initiatives.
 
@@ -57,7 +61,7 @@ I am a **Full-Stack & Systems Engineer** and the **Founder of Galvaniy Techs**, 
 
 #### Frameworks & Libraries
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -73,7 +77,7 @@ I am a **Full-Stack & Systems Engineer** and the **Founder of Galvaniy Techs**, 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/SSE-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT%20%2F%20ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/RP2040%20%2F%20ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 
 </div>
 
@@ -83,6 +87,7 @@ I am a **Full-Stack & Systems Engineer** and the **Founder of Galvaniy Techs**, 
 
 | Project | Domain | Stack | Highlights |
 |:---|:---:|:---:|:---|
+| [**mylandingpage**](https://github.com/mr-ceo7/mylandingpage) | **Portfolio & Monograph** | `Next.js` `React 19` `Tailwind` | Official engineering portfolio and systems monograph deployed via Vercel ([Live Site](https://mylandingpage-three-roan.vercel.app/)) |
 | [**agy-pool**](https://github.com/mr-ceo7/agy-pool) | **AI & Tooling** | `Python` `CLI` | Multi-account rotation, quota failover, and unified conversation management for Google Antigravity CLI |
 | [**AI_gateway**](https://github.com/mr-ceo7/AI_gateway) | **AI Infrastructure** | `Python` `Flask` `SSE` | High-throughput AI API gateway interfacing CLI engines (agy, Claude, Copilot) with real-time SSE streaming |
 | [**PochiPay**](https://github.com/mr-ceo7/PochiPay) | **Fintech & Mobile** | `Kotlin` `Android` | Production Android mobile payment automation bridge and verification gateway |
@@ -111,8 +116,9 @@ I am a **Full-Stack & Systems Engineer** and the **Founder of Galvaniy Techs**, 
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Portfolio-Galvaniy%20Techs-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://galvaniytechs.odoo.com)
-[![Email](https://img.shields.io/badge/Direct%20Email-kassimmusa322%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kassimmusa322@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mylandingpage-three-roan.vercel.app/)
+[![Company](https://img.shields.io/badge/Galvaniy%20Techs-Official-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://galvaniytechs.odoo.com)
+[![Direct Email](https://img.shields.io/badge/Direct%20Email-kassimmusa322%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kassimmusa322@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mr--ceo7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-ceo7)
 
 <br/>
