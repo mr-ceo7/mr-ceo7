@@ -5,6 +5,8 @@
   <img src="./banner.svg" width="100%" alt="Qassim Musa Header Banner" />
 </a>
 
+<br/><br/>
+
 <!-- Typing Animated Subtitle -->
 <a href="https://github.com/mr-ceo7">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&lines=Full-Stack+%26+Cloud+Platform+Architecture;AI+Gateways+%26+Developer+Tooling;Mobile+Fintech+%26+Automated+Payment+Bridges;Embedded+C%2FC%2B%2B+Systems+%26+Edge+IoT;Founder+%40+Galvaniy+Techs" alt="Typing Subtitle" />
