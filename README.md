@@ -89,17 +89,18 @@ I am a **Full-Stack & Systems Engineer** and the **Founder of Galvaniy Techs**, 
 
 ### 🌟 Featured Flagship Projects
 
-| Project | Domain | Stack | Highlights |
+| Project | Domain | Stack | Highlights & Live Demo |
 |:---|:---:|:---:|:---|
-| [**mylandingpage**](https://github.com/mr-ceo7/mylandingpage) | **Portfolio & Monograph** | `Next.js` `React 19` `Tailwind` | Official engineering portfolio and systems monograph deployed via Vercel ([Live Site](https://mylandingpage-three-roan.vercel.app/)) |
-| [**agy-pool**](https://github.com/mr-ceo7/agy-pool) | **AI & Tooling** | `Python` `CLI` | Multi-account rotation, quota failover, and unified conversation management for Google Antigravity CLI |
-| [**AI_gateway**](https://github.com/mr-ceo7/AI_gateway) | **AI Infrastructure** | `Python` `Flask` `SSE` | High-throughput AI API gateway interfacing CLI engines (agy, Claude, Copilot) with real-time SSE streaming |
-| [**PochiPay**](https://github.com/mr-ceo7/PochiPay) | **Fintech & Mobile** | `Kotlin` `Android` | Production Android mobile payment automation bridge and verification gateway |
-| [**prism-cast-desk**](https://github.com/mr-ceo7/prism-cast-desk) | **Desktop Systems** | `Kotlin` `Desktop` | Ultra-low latency wireless screen broadcasting tool with remote dashboard and session recording |
-| [**solar-tracker-AI**](https://github.com/mr-ceo7/solar-tracker-AI) | **Embedded IoT** | `C++` `Edge AI` | Intelligent dual-axis solar tracking system powered by edge sensory logic and hardware automation |
-| [**Edumetric**](https://github.com/mr-ceo7/Edumetric) | **EdTech Platform** | `TypeScript` `Next.js` | Digital exam assessment platform that scans booklets and tracks student academic performance |
-| [**Trackom**](https://github.com/mr-ceo7/Trackom) | **Enterprise SaaS** | `TypeScript` `SMS / USSD` | Enterprise Bulk SMS, USSD, and B2B communications gateway & SaaS API platform |
-| [**galvaniy-labs-vercel**](https://github.com/mr-ceo7/galvaniy-labs-vercel) | **Web Platform** | `TypeScript` `Next.js` | Official web presence and technology showcase for Galvaniy Labs |
+| [**mylandingpage**](https://github.com/mr-ceo7/mylandingpage) | **Portfolio & Monograph** | `Next.js` `React 19` | Engineering portfolio and systems monograph &bull; [**Live Demo ↗**](https://mylandingpage-three-roan.vercel.app/) |
+| [**galvaniy-labs-vercel**](https://github.com/mr-ceo7/galvaniy-labs-vercel) | **Virtual Physics Lab** | `TypeScript` `Next.js` | Interactive virtual physics lab & simulator &bull; [**Live Demo ↗**](https://galvaniy-labs.vercel.app/) |
+| [**PochiPay**](https://github.com/mr-ceo7/PochiPay) | **Fintech & Mobile** | `Kotlin` `Android` | Payment automation bridge & verification &bull; [**Live Console ↗**](https://pochipay-console.vercel.app/) |
+| [**studentaffairs**](https://github.com/mr-ceo7/studentaffairs) | **Institutional Portal** | `TypeScript` `React` | University student affairs clearinghouse &bull; [**Live Demo ↗**](https://studentaffairs-six.vercel.app/) |
+| [**globalOrators**](https://github.com/mr-ceo7/globalOrators) | **Speech AI Platform** | `TypeScript` `Next.js` | AI speech analytics and speaker community &bull; [**Live Demo ↗**](https://global-orators.vercel.app/) |
+| [**nubianfit**](https://github.com/mr-ceo7/nubianfit) | **Fitness & Health SaaS** | `TypeScript` `FastAPI` | Online coaching platform & client PWA &bull; [**Live Demo ↗**](https://nubianfit.vercel.app/) |
+| [**agy-pool**](https://github.com/mr-ceo7/agy-pool) | **AI & Tooling** | `Python` `CLI` | Multi-account rotation & quota pool manager for Google Antigravity |
+| [**AI_gateway**](https://github.com/mr-ceo7/AI_gateway) | **AI Infrastructure** | `Python` `Flask` `SSE` | Multi-engine LLM routing gateway with streaming SSE |
+| [**prism-cast-desk**](https://github.com/mr-ceo7/prism-cast-desk) | **Desktop Systems** | `Kotlin` `Desktop` | Ultra-low latency wireless screen broadcasting & remote dashboard |
+| [**solar-tracker-AI**](https://github.com/mr-ceo7/solar-tracker-AI) | **Embedded IoT** | `C++` `Edge AI` | Edge AI dual-axis solar tracking system & sensory logic |
 
 ---
 
